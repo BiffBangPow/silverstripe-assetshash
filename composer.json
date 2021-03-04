@@ -6,7 +6,8 @@
   "keywords": [
     "silverstripe",
     "assets",
-    "requirements"
+    "requirements",
+    "cache"
   ],
   "authors": [
     {
