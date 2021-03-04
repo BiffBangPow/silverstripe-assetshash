@@ -1,0 +1,30 @@
+{
+  "name": "biffbangpow/silverstripe-assetshash",
+  "description": "Adds an additional cache-busting hash to assets",
+  "type": "silverstripe-vendormodule",
+  "homepage": "https://github.com/BiffBangPow/silverstripe-assetshash",
+  "keywords": [
+    "silverstripe",
+    "assets",
+    "requirements"
+  ],
+  "authors": [
+    {
+      "name": "Tim Burt",
+      "email": "tim@biffbangpow.com"
+    }
+  ],
+  "require": {
+    "silverstripe/vendor-plugin": "^1.0",
+    "silverstripe/cms": "^4.0"
+  },
+  "license": "BSD-3-Clause",
+  "autoload": {
+    "psr-4": {
+      "BiffBangPow\\AssetsHash\\": "src/"
+    }
+  },
+  "extra": {
+  },
+  "minimum-stability": "dev"
+}
