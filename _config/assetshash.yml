@@ -4,4 +4,4 @@ Name: assetshash-extension
 
 SilverStripe\SiteConfig\SiteConfig:
   extensions:
-    - BiffBangPow\Extension\AssetsHashConfigExtension
+    - BiffBangPow\AssetsHash\Extension\AssetsHashConfigExtension
