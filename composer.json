@@ -16,7 +16,7 @@
     }
   ],
   "require": {
-    "silverstripe/cms": "^4|v5"
+    "silverstripe/cms": "^4|^5"
   },
   "license": "BSD-3-Clause",
   "autoload": {
